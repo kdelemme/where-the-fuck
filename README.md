@@ -46,3 +46,7 @@ THE SOFTWARE.
 
 
 [screenshot]: http://imagizer.imageshack.us/v2/800x600q90/819/jhpg.png
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/kdelemme/where-the-fuck/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+

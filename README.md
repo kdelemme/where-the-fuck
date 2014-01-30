@@ -13,7 +13,8 @@ Get the sources with `git clone https://github.com/kdelemme/where-the-fuck.git`
 
 ## Run
 
-Import the project into Eclipse, and build it.
+Import the project into Eclipse.
+Open Constant.java and change the value of `GOOGLE_API_KEY` with yours, then build the project.
 
 ## Stack
 

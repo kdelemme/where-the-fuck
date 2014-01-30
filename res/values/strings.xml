@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WhereTheF***ShouldIGo</string>
+    <string name="btnPullRestaurant">I\'m F***ing Hungry!</string>
+    <string name="btnPullBar">I\'m F***ing Thirsty!</string>
+    <string name="btnPullWaitingResult">Wait The F*** Up!</string>
+
+</resources>
